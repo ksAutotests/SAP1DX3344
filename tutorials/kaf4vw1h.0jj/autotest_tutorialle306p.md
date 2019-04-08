@@ -1,0 +1,9 @@
+---
+title: autotest38M3e2
+description: autotest6eyMvT_4/8/2019 6:10:22 PM
+tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
+primary_tag: tutorial:product/sapHana
+time: 525
+author_profile: https://github.com/ksAutotests
+author_name: ksAutotests
+---
