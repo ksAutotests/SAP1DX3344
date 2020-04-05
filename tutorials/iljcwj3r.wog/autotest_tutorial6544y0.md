@@ -1,9 +1,0 @@
----
-title: autotest88V0uy
-description: autotestJ71WQY_4/5/2020 3:17:51 AM
-tags: [topic:139269250608756787992873,products:tech/73554900100700000996,tutorial:experience/advanced]
-primary_tag: tutorial:product/sapHana
-time: 645
-author_profile: https://github.com/ksAutotests
-author_name: ksAutotests
----
